@@ -30,7 +30,7 @@ What distinguishes Recuva Data Recovery Software from other utilities is its dee
 
 ## What It Looks Like
 
-<img src="https://www.zebulon.fr/wp-content/uploads/2014/03/logiciel-recuva.png" 
+<img src="https://www.cleverfiles.com/howto/wp-content/uploads/2025/04/preview-in-recuva.jpg" 
      alt="Recuva Data Recovery Software Interface showing found files"
      style="border: 3px solid #333; 
             border-radius: 15px; 
